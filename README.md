@@ -58,12 +58,3 @@ This project was developed as part of the **Data Warehousing and Data Mining (DW
 - numpy
 
 ---
-
-## How to Run 
-
-1. Clone the repo
-2. Open notebooks in Google Colab or Jupyter
-3. Run `preprocessing.ipynb` first
-4. Then run `modeling.ipynb` for model training & evaluation
-
----
